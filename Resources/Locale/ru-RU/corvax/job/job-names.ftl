@@ -1,13 +1,14 @@
-job-name-iaa = агент внутренних дел
-job-name-pilot = пилот
-job-name-senior-engineer = ведущий инженер
-job-name-senior-researcher = ведущий учёный
-job-name-senior-physician = ведущий врач
-job-name-senior-officer = инструктор СБ
+job-name-iaa = Внутренни-Злотор
+job-name-pilot = Крофар
+job-name-senior-engineer = Старши-Гринтор
+job-name-senior-researcher = Старши-Сельвин
+job-name-senior-physician = Старши-Скельвин
+job-name-senior-officer = Скалвар-Инструктор
+
 # Role timers
-JobIAA = агент внутренних дел
-JobPilot = пилот
-JobSeniorEngineer = ведущий инженер
-JobSeniorOfficer = ведущий учёный
-JobSeniorPhysician = ведущий врач
-JobSeniorResearcher = инструктор СБ
+JobIAA = Внутренни-Злотор
+JobPilot = Крофар
+JobSeniorEngineer = Старши-Гринтор
+JobSeniorResearcher = Старши-Сельвин
+JobSeniorPhysician = Старши-Скельвин
+JobSeniorOfficer = Скалвар-Инструктор
